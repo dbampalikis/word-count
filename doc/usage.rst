@@ -7,7 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+In order to fork the repository visit the `link <https://github.com/dbampalikis/word-count>`_
 
 
 Make
